@@ -34,3 +34,67 @@ Problems solved from:
 ---
 
 # 📂 Repository Structure
+dsa-practice
+│
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack
+├── Queue
+├── Trees
+├── Graph
+├── DynamicProgramming
+├── SlidingWindow
+├── TwoPointers
+Each folder contains solutions categorized by **DSA topic**.
+
+# 🔥 Problem Solving Strategy
+
+Daily practice plan:
+
+- Solve **2–3 problems every day**
+- Focus on **understanding patterns**
+- Write **clean and optimized Java code**
+
+---
+
+# 💡 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stack
+- Queue
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Sliding Window
+- Two Pointers
+
+---
+
+# 📈 Current Progress
+
+Total Problems Solved: **0**
+
+Goal: **300+ Problems**
+
+---
+
+# ⭐ Learning Journey
+
+Consistency is the key to mastering **Data Structures and Algorithms**.
+
+This repository represents my **daily progress and dedication toward becoming a better software engineer**.
+
+---
+
+# 🤝 Connect With Me
+
+GitHub: https://github.com/mvkrishna24
+
+LeetCode: https://leetcode.com/vamshi_krishna_24
+
+GeeksforGeeks: https://auth.geeksforgeeks.org/user/mvkrishna1024
+
